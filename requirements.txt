@@ -1,1 +1,31 @@
+# 1. AI & Machine Learning Base
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+Pillow
 
+# 2. Deep Learning Frameworks (Pick one: PyTorch or TensorFlow)
+# --- PyTorch Stack ---
+# torch
+# torchvision
+
+# --- TensorFlow Stack ---
+tensorflow
+keras
+
+# 3. Generative AI
+transformers
+datasets
+diffusers
+accelerate
+openai
+google-genai
+langchain
+llama-index
+
+#for sound
+soundfile
+sounddevice
+scipy
